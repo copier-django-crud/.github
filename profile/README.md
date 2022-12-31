@@ -19,3 +19,8 @@ For general `copier` usage instructions refer to its
 [documentation](https://copier.readthedocs.io).
 
 For component specific usage instructions refer to `README.md` files in the corresponding GitHub repositories.
+
+## Compatibility
+
+- The templates are compatible with **Django 4.1** project structure.
+- Templates are compatible with/have been tested with **copier v7.0.1**.

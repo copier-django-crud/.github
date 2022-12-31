@@ -5,8 +5,8 @@ with template composition using [copier](https://github.com/copier-org/copier/).
 
 ## Templating components
 
-- Django project: [copier-django-crud/project](https://github.com/copier-django-crud/project)
-- Django app: []()
+- Django project: [project](https://github.com/copier-django-crud/project)
+- Django app: [app](https://github.com/copier-django-crud/app)
 
 ## Usage
 

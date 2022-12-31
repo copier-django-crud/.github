@@ -24,3 +24,15 @@ For component specific usage instructions refer to `README.md` files in the corr
 
 - The templates are compatible with **Django 4.1** project structure.
 - Templates are compatible with/have been tested with **copier v7.0.1**.
+
+## Contribution
+
+This project uses [conventional commits](https://www.conventionalcommits.org).
+Please create a pull request for every contribution and **prefix the pull request title**
+with
+
+- `feat:` for features
+- `fix:` for bug fixes
+- `docs:` for documentation related additions/changes/removes
+
+like e.g. done in this [exemplary pull request](https://github.com/copier-django-crud/project/pull/1) for a new feature.
